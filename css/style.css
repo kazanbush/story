@@ -1,0 +1,35 @@
+
+body {
+    margin: auto;
+background-color:rgb(176, 184, 192);
+}
+
+.heading {
+text-align: center;
+    font-size:20px;
+    color: rgb(213, 213, 228);
+}
+
+.story {
+width: 800px;
+background-color: rgb(195, 195, 209);
+margin-left: auto;
+margin-right: auto;
+padding: 30px;
+padding-top: 7px;
+border-radius: 10px;
+font-size: 25px;
+font-family: 'Caveat', cursive;
+font-family: 'El Messiri', sans-serif;
+color: rgb(71, 71, 71);
+}
+
+/* .title {
+text-align:center;
+font-size: 25px;
+font-family: 'Caveat', cursive;
+font-family: 'El Messiri', sans-serif;
+color: rgb(132, 133, 143);
+} */
+
+
